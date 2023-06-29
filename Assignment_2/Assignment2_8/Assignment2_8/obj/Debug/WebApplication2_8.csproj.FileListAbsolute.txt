@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\WebApplication2_8\WebApplication2_8\bin\WebApplication2_8.dll
+c:\users\hp\documents\visual studio 2010\Projects\WebApplication2_8\WebApplication2_8\bin\WebApplication2_8.pdb
+c:\users\hp\documents\visual studio 2010\Projects\WebApplication2_8\WebApplication2_8\obj\Debug\WebApplication2_8.dll
+c:\users\hp\documents\visual studio 2010\Projects\WebApplication2_8\WebApplication2_8\obj\Debug\WebApplication2_8.pdb
+D:\YYA\ASP\2\WebApplication2_8\WebApplication2_8\bin\WebApplication2_8.dll
+D:\YYA\ASP\2\WebApplication2_8\WebApplication2_8\bin\WebApplication2_8.pdb
+D:\YYA\ASP\2\WebApplication2_8\WebApplication2_8\obj\Debug\WebApplication2_8.csproj.AssemblyReference.cache
+D:\YYA\ASP\2\WebApplication2_8\WebApplication2_8\obj\Debug\WebApplication2_8.csproj.CoreCompileInputs.cache
+D:\YYA\ASP\2\WebApplication2_8\WebApplication2_8\obj\Debug\WebApplication2_8.dll
+D:\YYA\ASP\2\WebApplication2_8\WebApplication2_8\obj\Debug\WebApplication2_8.pdb

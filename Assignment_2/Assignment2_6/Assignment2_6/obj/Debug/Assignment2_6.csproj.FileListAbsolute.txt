@@ -1,0 +1,14 @@
+D:\Rk\Assignment2_6\Assignment2_6\bin\Assignment2_6.dll
+D:\Rk\Assignment2_6\Assignment2_6\bin\Assignment2_6.pdb
+D:\Rk\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.dll
+D:\Rk\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.pdb
+D:\YYA\ASP\2\Assignment2_6\Assignment2_6\bin\Assignment2_6.dll
+D:\YYA\ASP\2\Assignment2_6\Assignment2_6\bin\Assignment2_6.pdb
+D:\YYA\ASP\2\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.csproj.AssemblyReference.cache
+D:\YYA\ASP\2\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.csproj.CoreCompileInputs.cache
+D:\YYA\ASP\2\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.dll
+D:\YYA\ASP\2\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.pdb
+D:\Sem6\ASP.net\Assignment_2\Assignment2_6\Assignment2_6\bin\Assignment2_6.dll
+D:\Sem6\ASP.net\Assignment_2\Assignment2_6\Assignment2_6\bin\Assignment2_6.pdb
+D:\Sem6\ASP.net\Assignment_2\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.dll
+D:\Sem6\ASP.net\Assignment_2\Assignment2_6\Assignment2_6\obj\Debug\Assignment2_6.pdb

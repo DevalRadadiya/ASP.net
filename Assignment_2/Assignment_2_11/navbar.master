@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="navbar.master.cs" Inherits="footer" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Assignment_2_11</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .menubar 
+        {
+            font-size: 25px;
+            width: 328px;    
+        }
+    </style>
+</head>
+<body>
+    <asp:Label runat="server">
+        <b>DevalKumar C. Radadiya <br />
+        200802089</b>
+    </asp:Label><br /><br />
+    <form id="form1" runat="server">
+    <asp:Button ID="Button1" runat="server" Text="Button" />
+    <hr style="border: 2px solid Black; height: 2px;" />
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

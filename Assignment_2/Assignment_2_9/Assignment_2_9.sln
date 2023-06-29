@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_2_9", "Assignment_2_9\Assignment_2_9.csproj", "{417144CB-3041-4FEF-9683-011A48EA7EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417144CB-3041-4FEF-9683-011A48EA7EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417144CB-3041-4FEF-9683-011A48EA7EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417144CB-3041-4FEF-9683-011A48EA7EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417144CB-3041-4FEF-9683-011A48EA7EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

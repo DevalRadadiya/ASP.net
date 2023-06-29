@@ -1,0 +1,4 @@
+D:\Sem6\crud\crud\bin\crud.dll
+D:\Sem6\crud\crud\bin\crud.pdb
+D:\Sem6\crud\crud\obj\Debug\crud.dll
+D:\Sem6\crud\crud\obj\Debug\crud.pdb

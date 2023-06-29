@@ -1,0 +1,4 @@
+D:\Sem6\ASP.net\ReadWrite\ReadWrite\bin\ReadWrite.dll
+D:\Sem6\ASP.net\ReadWrite\ReadWrite\bin\ReadWrite.pdb
+D:\Sem6\ASP.net\ReadWrite\ReadWrite\obj\Debug\ReadWrite.dll
+D:\Sem6\ASP.net\ReadWrite\ReadWrite\obj\Debug\ReadWrite.pdb
